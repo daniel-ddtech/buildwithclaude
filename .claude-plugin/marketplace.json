@@ -4439,6 +4439,32 @@
         "path": "plugins/usethisskill",
         "sha": "f976e495c719a2d0bee0431253f8de54c63345be"
       }
+    },
+    {
+      "name": "adlicio",
+      "description": "Customer research from public comments and reviews. Connects the hosted Adlicio MCP server (https://mcp.tryadlicio.com/mcp, OAuth sign-in) and adds two skills that pull comments and reviews from Reddit, Amazon, YouTube, TikTok, Trustpilot, app stores and more, keep the permalink with every quote, and sort them into pain points, objections and ad angles. Scraped text is treated as data, never as instructions. Needs an Adlicio account; paid tools spend research credits.",
+      "version": "1.1.0",
+      "author": {
+        "name": "Daniel Derzic",
+        "url": "https://github.com/daniel-ddtech"
+      },
+      "homepage": "https://tryadlicio.com/mcp",
+      "repository": "https://github.com/daniel-ddtech/commentscraper-cli",
+      "license": "MIT",
+      "keywords": [
+        "customer-research",
+        "voice-of-customer",
+        "reddit",
+        "reviews",
+        "marketing",
+        "mcp"
+      ],
+      "category": "sales-marketing",
+      "source": {
+        "source": "github",
+        "repo": "daniel-ddtech/commentscraper-cli",
+        "sha": "e03d557b9732b67e0c7b9e107f01c54f16bab5ea"
+      }
     }
   ]
 }
